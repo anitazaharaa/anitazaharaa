@@ -18,6 +18,12 @@ const anita = {
 };
 ```
 
+<img src="https://github-readme-stats.vercel.app/api?username=anitazaharaa&show_icons=true&count_private=true&title_color=9333ea&text_color=7c3aed&icon_color=c084fc&bg_color=faf5ff&border_color=e9d5ff&border_radius=15" height="150"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitazaharaa&layout=compact&title_color=9333ea&text_color=7c3aed&bg_color=faf5ff&border_color=e9d5ff&border_radius=15&langs_count=4" height="150"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anitazaharaa&background=faf5ff&border=e9d5ff&ring=9333ea&fire=c084fc&currStreakNum=7c3aed&sideNums=7c3aed&currStreakLabel=9333ea&sideLabels=9333ea&dates=c084fc&border_radius=15" />
+
 
 <img src="https://skillicons.dev/icons?i=vue,ts,vscode,github,gitlab,chrome&theme=light&perline=6" />
 
