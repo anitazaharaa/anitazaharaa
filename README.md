@@ -25,13 +25,21 @@ const anita = {
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=anitazaharaa&show_icons=true&count_private=true&title_color=7a6558&text_color=5a4438&icon_color=b8a090&bg_color=f5f0eb&border_color=d4c5b8&border_radius=12&cache_seconds=1800" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitazaharaa&layout=compact&title_color=7a6558&text_color=5a4438&bg_color=f5f0eb&border_color=d4c5b8&border_radius=12&langs_count=4&cache_seconds=1800" />
+![](https://img.shields.io/badge/language-Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=42b883&labelColor=f5f0eb&color=f5f0eb)
+![](https://img.shields.io/badge/language-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=f5f0eb&color=f5f0eb)
+![](https://img.shields.io/badge/language-CSS-b8a090?style=for-the-badge&logo=css3&logoColor=b8a090&labelColor=f5f0eb&color=f5f0eb)
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=anitazaharaa&background=f5f0eb&border=d4c5b8&ring=b8a090&fire=c2b0a2&currStreakNum=5a4438&sideNums=5a4438&currStreakLabel=7a6558&sideLabels=7a6558&dates=9e8878&border_radius=12" />
+[![anitazaharaa's github stats](https://github-readme-stats.vercel.app/api?username=anitazaharaa&show_icons=true&count_private=true&title_color=7a6558&text_color=5a4438&icon_color=b8a090&bg_color=f5f0eb&border_color=d4c5b8&border_radius=12&hide_border=false)](https://github.com/anitazaharaa)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anitazaharaa&layout=compact&title_color=7a6558&text_color=5a4438&bg_color=f5f0eb&border_color=d4c5b8&border_radius=12&langs_count=4)](https://github.com/anitazaharaa)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anitazaharaa&background=f5f0eb&border=d4c5b8&ring=b8a090&fire=c2b0a2&currStreakNum=5a4438&sideNums=5a4438&currStreakLabel=7a6558&sideLabels=7a6558&dates=9e8878&border_radius=12)](https://github.com/anitazaharaa)
 
 <br/>
 
@@ -48,6 +56,8 @@ const anita = {
 ---
 
 ### 💬 quote
+
+<br/>
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 >
