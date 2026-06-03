@@ -1,56 +1,54 @@
-<p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/vueparrot.gif" width="36" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-</p>
+<div align="center">
 
-<h2 align="center">👨‍💻 Whoami</h2>
-<p align="center">
-  <samp>
-    Frontend developer yang passionate dengan Vue.js & TypeScript ✨<br>
-    Suka bikin UI yang bersih, interaktif, dan bikin orang betah 🖥️<br>
-    Terus belajar, terus berkembang — satu commit setiap hari 🚀
-  </samp>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffb7c5,ffd6e0,ffc8dd,cdb4db,bde0fe&height=180&section=header&text=anita%20zaharaa&fontSize=45&fontColor=fff&fontAlignY=55&desc=frontend%20developer%20✦%20vue%20lover%20✦%20pixel%20perfectionist&descSize=13&descAlignY=75&descColor=fff" />
 
-</br>
+</div>
 
-<h2 align="center">🔧 Languages and Tools</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/76263028?s=40&v=4" alt="claude" width="40" height="40"/>
-</p>
+<br/>
 
-</br>
+<div align="center">
 
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <a href="https://github.com/anitazaharaa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anitazaharaa&show_icons=true&line_height=27&count_private=true&title_color=41b883&text_color=c9cacc&icon_color=41b883&bg_color=1d1f21"/>
-  </a>
-  <a href="https://github.com/anitazaharaa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitazaharaa&title_color=41b883&text_color=c9cacc&icon_color=41b883&bg_color=1d1f21&langs_count=3"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=CDB4DB&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+Anita+🌸;Vue.js+%26+TypeScript+enthusiast+💜;Turning+designs+into+reality+✨;One+commit+a+day+keeps+bugs+away+🐛)](https://git.io/typing-svg)
 
-</br>
+</div>
 
-<h2 align="center">🕑 WakaTime</h2>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<br/>
 
-</br>
+const anita = {
+  name      : "Anita Zaharaa",
+  role      : "Frontend Developer",
+  loves     : ["Vue.js", "TypeScript", "clean UI", "iced coffee ☕"],
+  currently : "building things that look good & work well",
+  motto     : "details make the difference 🌸",
+};
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=41b883,34495e&height=60&section=footer&width=100">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vue,ts,vscode,github,gitlab,chrome&theme=light&perline=6" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anitazaharaa&show_icons=true&count_private=true&title_color=cdb4db&text_color=a89ab5&icon_color=ffb7c5&bg_color=fff9fb&border_color=ffd6e0&border_radius=15" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitazaharaa&layout=compact&title_color=cdb4db&text_color=a89ab5&bg_color=fff9fb&border_color=ffd6e0&border_radius=15&langs_count=4" height="150"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitazaharaa&background=fff9fb&border=ffd6e0&ring=cdb4db&fire=ffb7c5&currStreakNum=a89ab5&sideNums=a89ab5&currStreakLabel=cdb4db&sideLabels=cdb4db&dates=c9b8d4&border_radius=15" />
+</div>
+
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anitazaharaa&style=flat-square&color=cdb4db&label=profile+views" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffb7c5,ffd6e0,ffc8dd,cdb4db,bde0fe&height=80&section=footer" />
