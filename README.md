@@ -21,6 +21,7 @@ const anita = {
   currently : "building things that look good & work well",
 };
 
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vue,ts,vscode,github,gitlab,chrome&theme=dark&perline=6" />
 </div>
@@ -38,9 +39,11 @@ const anita = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitazaharaa&background=1a0533&border=9d4edd&ring=c77dff&fire=e0aaff&currStreakNum=e0aaff&sideNums=e0aaff&currStreakLabel=c77dff&sideLabels=c77dff&dates=9d4edd&border_radius=15" />
 </div>
 
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anitazaharaa&style=flat-square&color=9d4edd&label=profile+views" />
