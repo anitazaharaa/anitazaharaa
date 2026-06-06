@@ -10,7 +10,7 @@
 
 ```ts
 const anita = {
-  name: "Anita Zaharaa",
+  name: "Anita Zahara",
   role: "Frontend Developer",
   loves: ["Vue.js", "TypeScript", "clean UI", "iced coffee ☕"],
   currently: "building things that look good & work well",
