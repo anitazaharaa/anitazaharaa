@@ -29,7 +29,7 @@ const anita = {
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anitazaharaa&show_icons=true&count_private=true&title_color=7a6558&text_color=5a4438&icon_color=b8a090&bg_color=f5f0eb&border_color=d4c5b8&border_radius=15" height="150"/>
 &nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anitazaharaa&layout=compact&title_color=7a6558&text_color=5a4438&bg_color=f5f0eb&border_color=d4c5b8&border_radius=15&langs_count=4" height="150"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anitazahara&layout=compact&title_color=7a6558&text_color=5a4438&bg_color=f5f0eb&border_color=d4c5b8&border_radius=15&langs_count=4" height="150"/>
 
 <br/>
 
