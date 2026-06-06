@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8ddd4,50:d4c5b8,100:c2b0a2&height=200&section=header&text=anita%20zaharaa&fontSize=45&fontColor=3a2f27&fontAlignY=45&desc=frontend%20developer%20%C2%B7%20vue%20lover%20%C2%B7%20pixel%20perfectionist&descSize=14&descAlignY=65&descColor=7a6558" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8ddd4,50:d4c5b8,100:c2b0a2&height=200&section=header&text=anita%20zahara&fontSize=45&fontColor=3a2f27&fontAlignY=45&desc=frontend%20developer%20%C2%B7%20vue%20lover%20%C2%B7%20pixel%20perfectionist&descSize=14&descAlignY=65&descColor=7a6558" />
 
 <br/>
 
@@ -29,7 +29,7 @@ const anita = {
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anitazaharaa&show_icons=true&count_private=true&title_color=7a6558&text_color=5a4438&icon_color=b8a090&bg_color=f5f0eb&border_color=d4c5b8&border_radius=15" height="150"/>
 &nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anitazahara&layout=compact&title_color=7a6558&text_color=5a4438&bg_color=f5f0eb&border_color=d4c5b8&border_radius=15&langs_count=4" height="150"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anitazaharaa&layout=compact&title_color=7a6558&text_color=5a4438&bg_color=f5f0eb&border_color=d4c5b8&border_radius=15&langs_count=4" height="150"/>
 
 <br/>
 
